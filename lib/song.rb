@@ -9,5 +9,6 @@ class Song
     a_name = self.artist.name
     if a_name == nil
       nil
+    end 
   end
 end
